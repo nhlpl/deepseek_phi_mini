@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 phi_tune_deepseek.py — φ‑Coherent Auto‑Tuner for DeepSeek Libraries
@@ -533,4 +532,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
